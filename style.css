@@ -11,7 +11,7 @@ body {
 
 .desktop {
   height: 100vh;
-  background: url("/img/nacgrkound.png");
+  background: url("./img/nacgrkound.png");
   background-position: center;
   background-size: cover;
 }
@@ -107,23 +107,7 @@ body {
   float: right;
 }
 
-.taskbar .icons-right #wifi {
-  height: 43px;
-  width: 49px;
-  background-image: url("https://raw.githubusercontent.com/gcazin/pure-css-windows-10-desktop/master/icons/wifi.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 22px 22px;
-}
 
-.taskbar .icons-right #sound {
-  height: 43px;
-  width: 49px;
-  background-image: url("https://raw.githubusercontent.com/gcazin/pure-css-windows-10-desktop/master/icons/volume.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 22px 22px;
-}
 
 .taskbar .icons-right #return {
   width: 4px;
