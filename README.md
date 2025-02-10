@@ -1,6 +1,1 @@
 # gokmen-nisanci
-
-
-
-
-
